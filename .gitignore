@@ -1,6 +1,7 @@
-*.txt
 *.exe
 *.sdf
 *.suo
 
 Debug/
+build/
+bin/
